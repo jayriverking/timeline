@@ -22,7 +22,7 @@ const Timeline = () => {
     });
 
     return(
-        <div>
+        <div className='timeline'>
             <h1>Time components!</h1>
             {timeComponents}
         </div>
